@@ -1,6 +1,6 @@
 # Wilson canuto graciano (2023)!!!!!
 
-# calculando as venadas em python
+# calculando as vendas em python
 
 # vendas = 2100
 
